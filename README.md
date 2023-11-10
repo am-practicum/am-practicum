@@ -2,7 +2,7 @@
 
 - 🏴󠁲󠁵󠁭󠁯󠁷󠁿 I live in Russia, Moscow.
 - 🐍 I'm an engineer at Intechcard LLC.
-- 👀 I’m interested in backend ['Python', 'DRF',]
+- 👀 I’m interested in backend ['Python', 'SQLAlchemy', 'PyQt', 'DRF',]
 
 ## 🛠 My fancy badge area
 
