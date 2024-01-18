@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Alexey
 
 - 🏴󠁲󠁵󠁭󠁯󠁷󠁿 I live in Russia, Moscow.
-- 🐍 I'm an software developer at Intechcard LLC.
+- 💳 I'm an software developer at Intechcard LLC.
 - 👀 I’m interested in backend ['Python', 'SQLAlchemy', 'PyQt', 'DRF',]
 - 🤞 I'm learning C++
 
