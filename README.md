@@ -2,7 +2,8 @@
 
 - 🏴󠁲󠁵󠁭󠁯󠁷󠁿 I live in Russia, Moscow.
 - 💳 I'm an software developer at Intechcard LLC.
-- 👀 I’m interested in backend ['Python', 'SQLAlchemy', 'PyQt', 'DRF',]
+- 👍 I have developed MES and DP for manufacturing for the company I work for. 
+- 👀 I am interested in manufacturing software and technology ['Python', 'SQLAlchemy', 'PyQt', 'GPG/AES', 'EMV/APDU']
 - 🤞 I'm learning C++
 
 ## 🛠 My fancy badge area
@@ -14,6 +15,7 @@
 ![DRF](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white) 
+![MSSQL](https://img.shields.io/badge/mssql-%232496ED.svg?&style=for-the-badge&logo=mssql&logoColor=white) 
 
 <!---
 am-practicum/am-practicum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
